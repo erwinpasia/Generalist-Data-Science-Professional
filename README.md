@@ -18,7 +18,7 @@ Specializations, professional certificates, and courses are typically "taught by
 Specializations, professional certificates, and courses often have online communities where you can connect with other learners and ask questions. This can be a great way to get help and support as you are learning.
 
 ## 5. Accreditation: 
-Specializations, professional certificates, and courses are often "accredited by reputable organizations" i.e top technology companies and top universities. This means that they meet certain standards of quality and that the credits you earn can be transferred to other programs(future Bachelor's Degree or even advanced-degrees like Master of Arts (MA), Master of Science (MS), and Master of Business Administration (MBA), or used to qualify for jobs.
+Specializations, professional certificates, and courses are often "accredited by reputable organizations" i.e top technology companies and top universities. This means that they meet certain standards of quality and that the credits you earn can be transferred to other programs thru "Degree Credit Eligibility" (future Bachelor's Degree or even advanced-degrees like Master of Arts (MA), Master of Science (MS), and Master of Business Administration (MBA), or used to qualify for jobs.
 
 ## 6. Founded by one of the Godfather of AI: 
 The Coursera Learning Platform was founded by Andrew Ng.
