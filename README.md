@@ -12,7 +12,7 @@ Technical books can be dry and difficult to read, especially if you are not fami
 Specializations, professional certificates, and courses often include real-world labs where you can practice what you have learned. This is a great way to solidify your understanding of the material and to get hands-on experience with the skills you are learning.
 
 ## 3. Expert instruction:
-Specializations, professional certificates, and courses are typically "taught by experts in the field". This means that you will be learning from people who have real-world experience and who can help you to understand the material in a way that is relevant to your career goals.
+Specializations, professional certificates, and courses are typically "taught by experts in the field and PhDs". This means that you will be learning from people who have real-world professional experiences and who can help you to understand the material in a way that is relevant to your career goals.
 
 ## 4. Community support: 
 Specializations, professional certificates, and courses often have online communities where you can connect with other learners and ask questions. This can be a great way to get help and support as you are learning.
